@@ -1,0 +1,14 @@
+body {
+    background-color: lightcyan;
+}
+
+p {
+    color: darkmagenta;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1em;
+    line-height: 1.4em;
+}
+
+img {
+    border: 3px solid gold;
+}

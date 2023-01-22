@@ -1,0 +1,62 @@
+body {
+    background-color: tan;
+    background-image: url("Images/sky.jpg");
+    background-repeat: initial;
+    background-attachment: fixed;
+}
+
+h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 2.5em;
+    color: maroon;
+}
+
+h2 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1.7em;
+    color: orange;
+}
+
+h3, h4, h5, h6, {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1.2em;
+}
+
+a:link, a:visited {
+    color: plum;
+    text-decoration: wavy;
+}
+
+a:hover {
+    color: black;
+    background-color: greenyellow;
+}
+
+a:active {
+    color: yellow;
+    background-color: aquamarine;
+}
+
+table, td, th, tr {
+    color: gold;
+}
+
+img {
+    border: 5.5px solid;
+    border-color: darkgoldenrod;
+    float: none;
+}
+
+#title {
+    font-size: 3.1em;
+    text-align: left;
+}
+
+.note {
+    font-size: 3em;
+    color: darkkhaki
+}
